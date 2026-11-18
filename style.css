@@ -1,0 +1,20 @@
+/*
+ * Theme Name:  Stepper
+ * Theme URI:   https://github.com/19h47/stepper
+ * Description: The landing of stepper.19h47.fr: what the site is and the plugins it runs, Run, Library and Moodboard.
+ * Version:     2.0.0
+ * Author:      Jérémy Levron
+ * Author URI:  https://www.19h47.fr
+ * License:     GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: stepper
+ *
+ * The styles of the page, after app-style.css, the base shared by 19h47's small apps.
+ */
+
+@layer app {
+	.app-item h2 {
+		font-size: var(--app-text-l);
+		letter-spacing: -0.01em;
+	}
+}
