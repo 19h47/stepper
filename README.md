@@ -5,6 +5,7 @@ The theme of [stepper.19h47.fr](https://stepper.19h47.fr): one page, in English,
 - `index.php` holds the HTML of the page, `404.php` the one of a page not found, between `header.php` and `footer.php`.
 - `app-style.css` is the base shared by 19h47's small apps, a copy of [the gist](https://gist.github.com/19h47/27df983fac74beb8d3e0a30688654498) with its revision in its comment: an update is a new copy. `style.css` holds the header of the theme and the styles of the page, in the layer `app`.
 - `functions.php` loads both and takes off the styles of core for blocks and emoji, which the page has none of.
+- `screenshot.png` is the icon of the theme, as the apps have theirs: the symbol steps, from [Material Symbols](https://github.com/google/material-design-icons), by Google, under the Apache License 2.0, light on dark.
 
 ## Deploying
 
