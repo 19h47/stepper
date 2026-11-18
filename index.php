@@ -39,9 +39,8 @@ get_header();
 		<h2>Moodboard</h2>
 		<p class="app-item__meta"><span>Images</span> <span>Phone app</span></p>
 		<p>
-			Gather the visual research of a project, such as a novel, in a clean grid, as Are.na does:
-			images, files, texts and links, in channels. Its app installs on a phone and takes what
-			is shared to it.
+			Gather images, files, texts and links in channels, and see them in a clean grid. Its app
+			installs on a phone and takes what is shared to it.
 		</p>
 		<p><a href="https://github.com/19h47/moodboard">19h47/moodboard on GitHub</a></p>
 	</li>
